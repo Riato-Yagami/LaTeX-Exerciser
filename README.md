@@ -1,1 +1,1 @@
-# -LaTeX-exerciser
+# LaTeX-exerciser
